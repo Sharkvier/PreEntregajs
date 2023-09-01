@@ -1,0 +1,35 @@
+body{
+    background-color: #ffffff;
+}
+
+button {
+    padding: 10px 20px;
+    margin: 10px;
+    border-radius: 5px;
+    background-color: #ea800e;
+    color: white;
+    font-size: 18px;
+    border: none;
+    cursor: pointer;
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.3);
+    transition: all 0.3s ease;
+  }
+
+  button:hover {
+    background-color: #f20909;
+  }
+  
+  button:focus {
+    outline: none;
+    box-shadow: 0 0 0 3px #f20909;
+  }
+
+#resultados{
+    background-color: #dae5ee;
+    
+}
+#nuevos-container{
+    background-color: #dae5ee;
+   
+   
+}

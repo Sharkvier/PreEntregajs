@@ -1,0 +1,54 @@
+{
+    "nuevos":[
+    {
+      "titulo": "Holly",
+      "autor": "stephen king",
+      "editorial": "plaza janes",
+      "paginas": 600,
+      "precio": 35000,
+      "fecha": " 2 de octubre"
+    },
+    {
+      "titulo": "la torre oscura concordancias completas",
+      "autor": "robin furth",
+      "editorial": "plaza janes",
+      "paginas": 1580,
+      "precio": 100000,
+      "fecha": " 9 de octubre"
+    },
+    {
+      "titulo": "darling",
+      "autor": "javier vergara",
+      "editorial": "debolsillo",
+      "paginas": 900,
+      "precio": 15000,
+      "fecha": " 7 de noviembre"
+    },
+    {
+      "titulo": "cuento de hadas",
+      "autor": "stephen king",
+      "editorial": "plaza janes",
+      "paginas": 900,
+      "precio": 15000,
+      "fecha": " 2 de diciembre"
+    },
+    {
+      "titulo": "auge y caida de los dinosaurios",
+      "autor": "steve brusatte",
+      "editorial": "debate",
+      "paginas": 300,
+      "precio": 20000,
+      "fecha": " 4 de diciembre"
+    },
+    {
+      "titulo": "el guerrero de la tierra",
+      "autor": "david b. morris",
+      "editorial": "alfaguara",
+      "paginas": 300,
+      "precio": 10000,
+      "fecha": " 12 de noviembre"
+    }
+    
+    
+  ]
+}
